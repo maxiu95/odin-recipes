@@ -1,0 +1,2 @@
+BEFORE;
+    This is going to be my first project with the Odin Project. At first it will be a barebones HTML webpage but later it will be decorated with CSS (and maybe JavaScript?? who knows). I'm excited to get going and actually start building something- even if it is just with simple HTML. Should be fun... lets GO!!
