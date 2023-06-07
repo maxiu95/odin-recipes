@@ -1,0 +1,45 @@
+@font-face {
+    font-family: W95FA;
+    src: url(./fonts/W95FA.otf);
+}
+
+* {
+    background-color: teal;
+    font-family: W95FA, sans-serif;
+}
+
+h1,
+ul,
+li,
+.font,
+ h2,
+ p,
+ strong,
+ b,
+ i,
+ small,
+ ol,
+ dl,
+ dd {
+    background-color: lightgrey;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.font,
+dt {
+    font-size: 36px;
+}
+
+ul,
+li, 
+dd,
+p {
+    font-size: 28px;
+}
