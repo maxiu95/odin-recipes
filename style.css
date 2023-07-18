@@ -8,38 +8,65 @@
     font-family: W95FA, sans-serif;
 }
 
-h1,
-ul,
-li,
-.font,
- h2,
- p,
- strong,
- b,
- i,
- small,
- ol,
- dl,
- dd {
-    background-color: lightgrey;
+h1 {
+    border: 5px solid;
+    padding: 10px;
+    font-size: 75px;
+    text-align: center;
+    background-color: lightgray;
+}
+/* photo block on main page */
+#one {
+    display: block;
+    border: 5px solid;
 }
 
-h1 {
-    font-size: 75px;
+#two {
+    text-align: center;
+    background-color: lightgray;
+}
+
+.fp_img {
+    margin: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#fp-list {
+    border: 5px solid;
+    list-style-type: none;
+    margin-left: auto;
+}
+
+/* front page list */
+.fp_list {
+    background-color: lightgray;
+    margin: 5px;
+    font-size: 36px;
+}
+
+/* recipe pages */
+.recipe-body {
+    border: 5px solid;
+    padding: 10px;
+    background-color: lightgray;
+}
+
+.recipe-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h2 {
     font-size: 50px;
+    margin: 10px;
 }
 
-.font,
-dt {
-    font-size: 36px;
+.bg-colour {
+    background-color: lightgray;
 }
 
-ul,
-li, 
-dd,
-p {
-    font-size: 28px;
+.font {
+    font-size: 26px;
 }
